@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<head>
+    <title> Portfolio </title>
+</head>
+<style>
+    html {
+        box-sizing: inherit;
+        font-size: 60%;
+        scroll-behavior: smooth;
+    }
+    @media (max-width: 75em){
+        html {
+            font-size: 60%;
+        }
+    }
+    @media (max-width: 61.25em){
+        html {
+            font-size: 58%;
+        }
+    }
+    @media (max-width: 28.75em){
+        html {
+            font-size: 55%;
+        }
+    }
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1.5;
+        color: aliceblue;
+    }
+    h1, h2 {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 700;
+        text-align: center;
+    }
+    h1 {
+        font-size: 6rem;
+    }
+    h2 {
+        font-size: 4.2rem;
+    }
+    ul {
+        list-style: none;
+    }
+    a {
+        text-decoration: none;
+        color: #76aedf;
+    }
+    img {
+        display: block;
+        width: 100%;
+    }
+    .nav {
+        justify-content: flex-end;
+        display: flex;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        background: rgb(255, 220, 104);
+    }
+    .nav-list {
+        display: flex;
+        margin-right: 2rem;
+    }
+    
+    @media (max-width: 28.75em){
+        .nav {
+            justify-content: center;
+        }
+        .nav-list {
+            margin: 0 1rem;
+        }
+    }
+    .nav-list a {
+        display: block;
+        font-size: 2.2rem;
+        padding: 2rem;
+    }
+
+    .welcome-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+        height: 100vh;
+        background-color: rgb(48, 33, 33);
+        font-style: italic;
+    }
+    .welcome-section > p {
+        font-size: 3rem;
+        font-weight: 200;
+        font-style: italic;
+    }
+
+    .project-section {
+        padding: 10rem 2rem;
+        text-align:center;
+        background: rgb(80, 80, 245);
+    }
+    .project-header {
+        max-width: 640px;
+        margin: 0 auto 6rem auto;
+    }
+    .project-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-gap: 12px;
+        max-width: 1280px;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .project {
+        background-color: azure;
+        border-radius: 2px;
+        box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    }
+    .project-image {
+        height: calc(100% - 6.5rem);
+    }
+    .button {
+        display: inline-block;
+        padding: 1rem 2rem;
+        border-radius: 2px;
+    }
+    .contact-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 80vh;
+        background: gray;
+    }
+    .contact-section-header {
+        font-size: 6rem;
+    }
+    .contact-link {
+        display: flex;
+        justify-content: center;
+        max-width: 980px;
+        width: 100%;
+        margin-top: 4rem;
+        flex-wrap: wrap;
+    }
+    .code {
+        color: rgb(14, 8, 2);
+
+    }
+    .project-title {
+        font-size: 2rem;
+        padding: 2rem 0.5rem;
+    }
+</style>
+<body>
+    <nav id="navbar" class="nav">
+        <ul class="nav-list">
+            <li>
+                <a href="#welcome-section">About</a>
+            </li>
+            <li>
+                <a href="#projects">Projects</a>
+            </li>
+            <li>
+                <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <section id="welcome-section" class="welcome-section">
+        <h1>I am Vivek</h1>
+        <p>a web developer</p>
+    </section>
+    <section id="projects" class="projects-section">
+        <h2 class="project-header">Some of my Projects</h2>
+        <div class="project-grid">
+            <a href="https://codepen.io/vpatel2398/pen/yLzxgbj" target="_blank" class="project project-tile">
+                <img class="project-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/1920px-A._P._J._Abdul_Kalam.jpg" alt="project">
+                <p class="project-title">
+                    <span class="code"></span>
+                    " Tribute Page "
+                    <span class="code"></span>
+                </p>
+            </a>
+        </div>
+    </section>
+    <section id="contact" class="contact-section">
+        <div class="contact-section-header">
+            <h2>Let's Connect</h2>
+        </div>
+        <div class="contact-links">
+            <a id="progile-link" href="https://github.com/vpatel2398" target="_blank" class="button">
+                GitHub
+            </a>
+        </div>
+        <div class="contact-links">
+            <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+            <df-messenger
+            intent="DEFAULT WELCOME INTENT"
+            chat-title="MistyVoiceCommand"
+            agent-id="52f8507c-b519-4743-bdec-23a57d0baa0f"
+            language-code="en"
+            ></df-messenger>
+
+        </div>
+    </section>
+</body>
+
+</html>
