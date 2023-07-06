@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-baseurl: /personal portfolio.html
+baseurl: /portfolio
 title: Portfolio
 
 relative_links:
