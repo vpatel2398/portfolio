@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-baseurl: /portfolio/docs
+baseurl: /portfolio
 title: Portfolio
 
 relative_links:
@@ -9,5 +9,5 @@ relative_links:
   collections: true
   
 include:
-  # - README.md
-  - personal portfolio.html
+  - README.md
+  # - personal portfolio.html
