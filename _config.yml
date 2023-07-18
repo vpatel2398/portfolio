@@ -1,6 +1,6 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
-- jekyll-remote-theme
+- jekyll-include-cache
 
 baseurl: /portfolio
 title: Portfolio
