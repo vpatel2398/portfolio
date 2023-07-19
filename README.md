@@ -1,5 +1,5 @@
 ## About Me
-#### I am an Applied Data Scientist who leverages statistical analysis, machine learning, and data visualization to derive data-driven insights, enabling the resolution of intricate business challenges and aiding strategic decision-making. My meticulous approach drives me to pursue a dynamic Data Analyst role, where I can interpret intricate datasets, detect patterns, and produce actionable insights to optimize processes. I am dedicated to enhancing data quality and fostering innovation by collaborating with cross-functional teams.
+*  I am an Applied Data Scientist who leverages statistical analysis, machine learning, and data visualization to derive data-driven insights, enabling the resolution of intricate business challenges and aiding strategic decision-making. My meticulous approach drives me to pursue a dynamic Data Analyst role, where I can interpret intricate datasets, detect patterns, and produce actionable insights to optimize processes. I am dedicated to enhancing data quality and fostering innovation by collaborating with cross-functional teams.
 
 ## Core Competencies
 *  Programming Language: Python, C++, C, SQL, JavaScrip
@@ -12,8 +12,9 @@
 *  Management, Data engineering, Software Development, Computer Vision, Text & Audio Classification
 
 ## Academic
-### Post-Grad Certificate, Applied A.I. Solutions                                                                                                                         Jan 2023 – Dec 2023
-#### George Brown College, GPA: 3.71/4.0                                                                                                                                     Toronto, ON, CAN
+### Post-Grad Certificate, Applied A.I. Solutions  
+#### George Brown College, Toronto, ON, CAN, $~~~~~~~~~~~~~~~$ GPA: 3.71/4.0
+#### Jan 2023 – Dec 2023
 ➢ Relevant Coursework: Machine Learning, Deep Learning, Applied Mathematical Concepts for ML and DL, Data Management, Data Visualization Techniques, Full Stack Data Science Systems, Agile Project Management
 ### Post-Grad Certificate, Cloud Computing                                                                                                                                Jan 2022 – Aug 2022
 #### Humber College, GPA: 8.7/10.0                                                                                                                                         Etobicoke, ON, CAN
