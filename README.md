@@ -11,16 +11,16 @@
 *  **Other Skills:** Data Structure, Algorithms, Machine learning Algorithms, Deep Learning, Research, Agile Project Management, Database Management, Data engineering, Software Development, Computer Vision, Text & Audio Classification
 
 ## Academic
-### Post-Grad Certificate, Applied A.I. Solutions, (Jan 2023 – Dec 2023)
-#### George Brown College - Toronto, ON, CAN  (GPA: 3.71/4.0)                                                                                                                                  
+### Post-Grad Certificate, Applied A.I. Solutions, &nbsp; &nbsp; (Jan 2023 – Dec 2023)
+#### George Brown College &nbsp; - &nbsp; Toronto, ON, CAN  &nbsp; &nbsp; (GPA: 3.71/4.0)                                                                                                                               
 ➢  **Relevant Coursework:** Machine Learning, Deep Learning, Applied Mathematical Concepts for ML and DL, Data Management, 
 Data Visualization Techniques, Full Stack Data Science Systems, Agile Project Management
-### Post-Grad Certificate, Cloud Computing, (Jan 2022 – Aug 2022)
-#### Humber College, Etobicoke, ON, CAN   (GPA: 8.7/10.0)
+### Post-Grad Certificate, Cloud Computing, &nbsp; &nbsp; (Jan 2022 – Aug 2022)
+#### Humber College &nbsp; - &nbsp; Etobicoke, ON, CAN   &nbsp; &nbsp; (GPA: 8.7/10.0)
 ➢  **Relevant Coursework:** Virtualization, Databases, Cloud Solution Architecture, Cloud Security, Automation, Big Data Analytics, 
 DevOps for Cloud Computing,Capstone Project: AWS serverless application for fundraiser company
-### Bachelor of Science, Computer Science  (Jan 2019 – Dec 2021)
-#### University of South Florida, Tampa, FL, USA  (GPA: 3.19/4.0)
+### Bachelor of Science, Computer Science, &nbsp; &nbsp; (Jan 2019 – Dec 2021)
+#### University of South Florida &nbsp; - &nbsp; Tampa, FL, USA  &nbsp; &nbsp; (GPA: 3.19/4.0)
 ➢  **Relevant Coursework:** Data Structure, Algorithms Analysis, Statistics, Computer Vision, Mobile Biometrics, 
 Computer Architecture, Software Testing, Computational Geometry
 
