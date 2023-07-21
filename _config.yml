@@ -3,7 +3,9 @@ plugins:
 - jekyll-remote-theme
 
 baseurl: /portfolio
-title: Portfolio
+title: Vivek Patel
+description: Data Analyst | Data Scienctist | NLP Engineer 
+show_downloads: true
 
 relative_links:
   enabled: true
@@ -11,4 +13,3 @@ relative_links:
   
 include:
   - README.md
-  # - personal portfolio.html
