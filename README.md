@@ -25,3 +25,28 @@ DevOps for Cloud Computing,Capstone Project: AWS serverless application for fund
 Computer Architecture, Software Testing, Computational Geometry
 
 ## Projects
+### Recommendation System (Movie)
+*  Developed the system for recommending movies based on ratings and their content.
+*  Created and Converted the MovieLens 20M movie ratings dataset for machine learning models.
+*  Analyzed user preferences and recognized trends using collaborative filtering techniques.
+*  Used content-based filtering techniques to assess the film's quality and provide tailored recommendations.
+*  Singular Value Decomposition (SVD) was used to forecast unknowable evaluations.
+*  Using turicreate's item similarity functionality, created a high-performance movie recommender system.
+*  Evaluated the recommender system's precision and found that it was about 85% accurate when recommending films to users.
+*  Used and demonstrated base line libraries for data preparation, analysis and building effective recommendation systems.
+
+### Loan Approval System
+*  Data was preprocessed by scaling numerical characteristics, correcting missing values, and encoding categorical variables.
+*  Used SQL queries to preprocess the data in Python.
+*  Trained and assessed a variety of classification models using ML Ops and Data pipeline, including SGD, SVM, decision trees, random forests, and logistic regression, using cross-validation approaches.
+*  To enhance the accuracy of the model, investigated feature selection techniques and performed hyperparameter tweaking.
+*  Exhibited proficiency with data preparation, classification modelling, and the use of several machine learning techniques.
+*  Successfully constructed a model for loan approval to aid in decision-making and boost the effectiveness of loan application review.
+
+### Fund Raiser Application – RacerX 
+*  Developed application solely using AWS Serverless services.
+*  Integrated Angular Component with third party services such as QRTiger to generate QR codes for each campaign and implemented Stripe payment gateway to receive donation from donor.
+*  Used React reusable functional components to develop whole website and integrated with amplify studio.
+*  Created the various access level for application using AWS Cognito - Admin, Manager, and Donor.
+*  Used S3 bucket to store the images used in the campaign and DynamoDB to store the data of the campaign.
+*  Set up the offer component with each campaign which can be added by the campaign managers at the time of creation of campaign.
