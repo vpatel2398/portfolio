@@ -61,3 +61,9 @@ Computer Architecture, Software Testing, Computational Geometry
 *  Created the various access level for application using AWS Cognito - Admin, Manager, and Donor.
 *  Used S3 bucket to store the images used in the campaign and DynamoDB to store the data of the campaign.
 *  Set up the offer component with each campaign which can be added by the campaign managers at the time of creation of campaign.
+
+### CI/CD Pipeline using Gitlab & Docker
+* Configured three processes – build, publish and deploy. 
+* Made small dynamic application using React and integrated with PostgreSQL database with NodeJS.
+* Build and automated the pipeline for software development approach.
+* Once code gets committed and merges the request to master branch, CI/CD triggered automatically
