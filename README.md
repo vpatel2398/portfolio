@@ -25,6 +25,17 @@ DevOps for Cloud Computing,Capstone Project: AWS serverless application for fund
 Computer Architecture, Software Testing, Computational Geometry
 
 ## Projects
+### Vehicle & Pedestrian Detection
+*	Proficient in three powerful object detection algorithms: YOLOv5, SSD, and Faster RCNN
+*	Extensive expertise in detecting pedestrians and vehicles using advanced computer vision techniques.
+*	In-depth understanding of object detection concepts, architectures, training, and inference mechanisms. 
+*	Strong track record of conducting comprehensive research and analysis in the field of computer vision and object detection.
+*	Demonstrated ability to apply algorithms for real-time identification and tracking of pedestrians and automobiles.
+*	Aims to contribute to making urban transport networks safer and more effective through cutting-edge technology applications.
+*	Experienced in the use of object detection algorithms for traffic control, surveillance, and the advancement of autonomous cars.
+*	Recognized for the potential impact of research in enhancing public safety and improving urban mobility.
+*	Collaborative team player with a passion for solving complex problems and driving innovation in the field of computer vision.
+
 ### Recommendation System (Movie)
 *  Developed the system for recommending movies based on ratings and their content.
 *  Created and Converted the MovieLens 20M movie ratings dataset for machine learning models.
