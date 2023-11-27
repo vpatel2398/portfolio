@@ -25,6 +25,27 @@ DevOps for Cloud Computing,Capstone Project: AWS serverless application for fund
 Computer Architecture, Software Testing, Computational Geometry
 
 ## Projects
+### Parkinson’s Disease Prediction using Audio
+* Created a machine learning model to detect Parkinson's Disease early using voice measurements from patients.
+* Used parameters like Jitter, Shimmer (across high and low frequencies), and additional features such as NHS, HNR, D2, RPDE, and DFA.
+* Processed voice data carefully, converting audio into specific features for analysis.
+* Trained the model to predict matches with existing data, leading to accurate disease detection.
+* Compared various machine learning methods and model setups to assess their performance.
+* Choose a model with a step-by-step design, achieving an impressive 87% accuracy on a test dataset.
+
+### NLP Models Benchmarking
+* Obtained Data from Hugging Face, Preprocessed by using ML techniques, corrected missing values, scaled numerical characteristics.
+* Use transformers pre-trained models such as ALBERT, BERT, BART, T5, Pegasus then find the best pre-trained model for each task.
+## Text Classification (Sentiment Analysis): 
+  * Used tweeter’s tweets about Covid-19.
+  * Cleaned the data using NLTK, removed stop words, removed hyperlinks, punctuation, lower the texts and normalized them.
+  * Classified the sentiments into positive, negative, and neutral and converted the sentiments to numbers. 
+  * Then used data loader to use tokenized and labeled data to train and obtained accuracy of 76% with DistllBERT model
+## Chat-Bot (Mental Health Conversational Bot):
+  * Created a conversational chat-bot for mental health help line.
+  * As per the user’s response or question, model will classify the category such as happy, sad, depression, death, greetings, goodbye, appreciation etc. and then give response.
+  * Used SVM algorithm to train the model.
+
 ### Vehicle & Pedestrian Detection
 *	Proficient in three powerful object detection algorithms: YOLOv5, SSD, and Faster RCNN
 *	Extensive expertise in detecting pedestrians and vehicles using advanced computer vision techniques.
