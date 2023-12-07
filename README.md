@@ -11,8 +11,8 @@
 *  **Other Skills:** Data Structure, Algorithms, Machine learning Algorithms, Deep Learning, Research, Agile Project Management, Database Management, Data engineering, Software Development, Computer Vision, Text & Audio Classification
 
 ## Experience
-### AI Developer Intern 											              Sept 2023 – Present 
-#### Semper8 International Inc.											          Toronto, ON, CAN
+### AI Developer Intern 											              (Sept 2023 – Present )
+#### Semper8 International Inc.											      -    Toronto, ON, CAN
 * Led multi-class audio classification using TensorFlow, achieving 60%+ accuracy across 7 emotional categories.
 * Specialized in AI development for NLP, Audio, and Computer Vision tasks, contributing to innovative solutions.
 * Identified and evaluated crucial data sources for impactful insights, aligning with organizational strategies.
