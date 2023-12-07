@@ -10,6 +10,15 @@
 *  **Soft Skills:** Verbal & Writing Communication, Analytical thinking, Business Strategy, Presentation & Storytelling,
 *  **Other Skills:** Data Structure, Algorithms, Machine learning Algorithms, Deep Learning, Research, Agile Project Management, Database Management, Data engineering, Software Development, Computer Vision, Text & Audio Classification
 
+## Experience
+### AI Developer Intern 											              Sept 2023 – Present 
+#### Semper8 International Inc.											          Toronto, ON, CAN
+•	Led multi-class audio classification using TensorFlow, achieving 60%+ accuracy across 7 emotional categories.
+•	Specialized in AI development for NLP, Audio, and Computer Vision tasks, contributing to innovative solutions.
+•	Identified and evaluated crucial data sources for impactful insights, aligning with organizational strategies.
+•	Provided strategic recommendations for robust, data-driven solutions and architectures.
+•	Developed and deployed end-to-end ML and DL systems, enhancing performance across diverse use cases.
+
 ## Academic
 ### Post-Grad Certificate, Applied A.I. Solutions, &nbsp; &nbsp; (Jan 2023 – Dec 2023)
 #### George Brown College &nbsp; - &nbsp; Toronto, ON, CAN  &nbsp; &nbsp; (GPA: 3.71/4.0)                                                                                                                               
